@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server Live Stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soul Master",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "kurento-client": "github:Kurento/kurento-client-js#master",
+    "ws": "^7.0.0"
+  }
+}
