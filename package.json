@@ -9,8 +9,16 @@
   "author": "Soul Master",
   "license": "ISC",
   "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "dotenv": "^8.0.0",
     "express": "^4.17.1",
+    "express-session": "^1.16.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
     "kurento-client": "github:Kurento/kurento-client-js#master",
+    "minimist": "^1.2.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0",
     "ws": "^7.0.0"
   }
 }
