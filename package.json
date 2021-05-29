@@ -11,6 +11,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "kurento-client": "github:Kurento/kurento-client-js#master",
-    "ws": "^7.0.0"
+    "ws": "^7.4.6"
   }
 }
