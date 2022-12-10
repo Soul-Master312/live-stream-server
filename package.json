@@ -9,7 +9,7 @@
   "author": "Soul Master",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "kurento-client": "github:Kurento/kurento-client-js#master",
     "ws": "^7.0.0"
   }
